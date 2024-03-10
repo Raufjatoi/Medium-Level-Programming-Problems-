@@ -37,5 +37,5 @@ if marks < 5 :
     print(f'You got {marks} from 5')
     print(f'here the ans key {ans}')
 elif marks == 5:
-    print(f'Congrats {marks} from 5')
+    print(f'Congrats u gotkkk {marks} from 5')
     print(f'here the ans key {ans}')
